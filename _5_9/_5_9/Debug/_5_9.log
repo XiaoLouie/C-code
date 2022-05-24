@@ -1,4 +1,0 @@
-﻿  main.c
-F:\bitC语言\2019\_5_9\_5_9\main.c(15,10): warning C4013: “chazhao2”未定义；假设外部返回 int
-F:\bitC语言\2019\_5_9\_5_9\main.c(21,1): warning C4142: "chazhao2": 类型的良性重定义
-F:\bitC语言\2019\_5_9\_5_9\main.c(92): error C4700: 使用了未初始化的局部变量“count”
